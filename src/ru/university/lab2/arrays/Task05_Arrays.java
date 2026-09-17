@@ -47,3 +47,5 @@ public class Task05_Arrays {
         System.out.println("Ручная проверка равенства элементов: " + elEq);
     }
 }
+
+

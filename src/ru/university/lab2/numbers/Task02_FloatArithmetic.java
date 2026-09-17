@@ -32,3 +32,4 @@ public class Task02_FloatArithmetic {
         System.out.println("1/3 во float: " + fVal + ", в double: " + dVal);
     }
 }
+

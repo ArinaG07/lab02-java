@@ -44,3 +44,5 @@ public class Task01_Integers {
         return false;
     }
 }
+
+
