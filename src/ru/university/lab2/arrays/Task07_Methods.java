@@ -44,3 +44,4 @@ public class Task07_Methods {
         return base * powRecursive(base, exp - 1);
     }
 }
+
